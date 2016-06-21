@@ -1,0 +1,2 @@
+﻿解凍されたContextRenamerフォルダをC:\Program Files以下にコピーしてQuickInstaller.regを実行してください。
+ファイルとフォルダの右クリックメニュー上部にコマンドが追加されます。
